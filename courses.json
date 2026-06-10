@@ -1,0 +1,233 @@
+{
+    "courses": [
+        {
+            "name": "AI1018 - Applied Artificial Intelligence",
+            "experiments": [
+                {
+                    "id": 1,
+                    "title": "Experiment-1: Implementation of Bayesian Networks",
+                    "college_repo": "ksrekha3/Ex-1-Implementation-of-Bayesian-Networks-AAI",
+                    "source_repo": "Supraja0510/Ex-1-Implementation-of-Bayesian-Networks-AAI"
+                },
+                {
+                    "id": 2,
+                    "title": "Experiment-2: Implementation of Exact Inference Method of Bayesian Network",
+                    "college_repo": "ksrekha3/Ex-2-Implementation-of-Exact-Inference-Method-of-Bayesian-Network-AAI",
+                    "source_repo": "Supraja0510/Ex-2-Implementation-of-Exact-Inference-Method-of-Bayesian-Network-AAI"
+                },
+                {
+                    "id": 3,
+                    "title": "Experiment-3: Implementation of Approximate Inference in Bayesian Networks",
+                    "college_repo": "ksrekha3/Ex-3-Implementation-of-Approximate-Inference-in-Bayesian-Networks-AAI",
+                    "source_repo": "Supraja0510/Ex-3-Implementation-of-Approximate-Inference-in-Bayesian-Networks-AAI"
+                },
+                {
+                    "id": 4,
+                    "title": "Experiment-4: Implementation of Hidden Markov Model",
+                    "college_repo": "ksrekha3/Ex-4-Implementation-of-Hidden-Markov-Model-AAI",
+                    "source_repo": "Supraja0510/Ex-4-Implementation-of-Hidden-Markov-Model-AAI"
+                },
+                {
+                    "id": 5,
+                    "title": "Experiment-5: Implementation of Kalman filter",
+                    "college_repo": "ksrekha3/Ex-5-Implementation-of-Kalman-filter-AAI",
+                    "source_repo": "Supraja0510/Ex-5-Implementation-of-Kalman-filter-AAI"
+                },
+                {
+                    "id": 6,
+                    "title": "Experiment-6: Implementation of Semantic Analysis",
+                    "college_repo": "ksrekha3/Ex-6-Implementation-of-Semantic-Analysis-AAI",
+                    "source_repo": "Supraja0510/Ex-6-Implementation-of-Semantic-Analysis-AAI"
+                }
+            ]
+        },
+        {
+            "name": "AI1027-Reinforcement Learning",
+            "experiments": [
+                {
+                    "id": 1,
+                    "title": "EX: 1 Pole Balancing using Reinforcement Learning",
+                    "college_repo": "sreeprabhu04/Pole-Balancing",
+                    "source_repo": "Supraja0510/Ex-1-Implementation-of-Bayesian-Networks-AAI"
+                },
+                {
+                    "id": 2,
+                    "title": "Ex: 2 Gridworld-use-a-rectangular-grid-to-illustrate-value-functions-for-a-simple-finite-MDP",
+                    "college_repo": "sreeprabhu04/Gridworld-use-a-rectangular-grid-to-illustrate-value-functions-for-a-simple-finite-MDP-",
+                    "source_repo": "Supraja0510/Ex-2-Implementation-of-Exact-Inference-Method-of-Bayesian-Network-AAI"
+                },
+                {
+                    "id": 3,
+                    "title": "EX: 3 Solving-Car-Rental-Problem-using-Policy-Iteration",
+                    "college_repo": "sreeprabhu04/Solving-Car-Rental-Problem-using-Policy-Iteration",
+                    "source_repo": "Supraja0510/Solving-Car-Rental-Problem-using-Policy-Iteration"
+                },
+                {
+                    "id": 4,
+                    "title": "Ex: 4 Solving Gambler’s Problem using Value Iteration",
+                    "college_repo": "sreeprabhu04/Solving-a-Gambler-s-Problem-using-the-value-iteration-algorithm.-",
+                    "source_repo": "Supraja0510/Solving-a-Gambler-s-Problem-using-the-value-iteration-algorithm.-"
+                },
+                {
+                    "id": 5,
+                    "title": "Experiment-5: Implementation of Kalman filter",
+                    "college_repo": "sreeprabhu04/Implementation-of-MC-prediction-for-estimating-the-state-value-function-",
+                    "source_repo": "Supraja0510/Ex-5-Implementation-of-Kalman-filter-AAI"
+                },
+                {
+                    "id": 6,
+                    "title": "EX: 6 Implementation-of-MC-prediction-for-estimating-the-state-value-function",
+                    "college_repo": "sreeprabhu04/Implementation-of-TD-prediction-for-estimating-the-state-value-function",
+                    "source_repo": "Supraja0510/Implementation-of-TD-prediction-for-estimating-the-state-value-function"
+                },
+                {
+                    "id": 7,
+                    "title": "EX: 7 Implementation-of-MC-prediction-for-estimating-the-action-value-function",
+                    "college_repo": "sreeprabhu04/Implementation-of-TD-prediction-for-estimating-the-state-value-function",
+                    "source_repo": "Supraja0510/Implementation-of-TD-prediction-for-estimating-the-state-value-function"
+                },
+                {
+                    "id": 8,
+                    "title": "EX: 8 TD Prediction for Estimating the State-Value Function using FrozenLake Environment",
+                    "college_repo": "sreeprabhu04/Implementation-of-TD-prediction-for-estimating-the-state-value-function",
+                    "source_repo": "Supraja0510/Implementation-of-TD-prediction-for-estimating-the-state-value-function"
+                },
+                {
+                    "id": 9,
+                    "title": "EX: 9 Implementation-of-Q-learning-Control-algorithm",
+                    "college_repo": "sreeprabhu04/Implementation-of-Q-learning-Control-algorithm",
+                    "source_repo": "Supraja0510/Implementation-of-Q-learning-Control-algorithm"
+                },
+                {
+                    "id": 10,
+                    "title": "EX: 10 Rod-Maneuvering-with-Prioritized-Sweeping",
+                    "college_repo": "sreeprabhu04/Rod-Maneuvering-with-Prioritized-Sweeping",
+                    "source_repo": "Supraja0510/Rod-Maneuvering-with-Prioritized-Sweeping"
+                },
+                {
+                    "id": 11,
+                    "title": "Ex: 11 Mountain-Car-Task",
+                    "college_repo": "sreeprabhu04/Ex-11-Mountain-Car-Task",
+                    "source_repo": "Supraja0510/Ex-11-Mountain-Car-Task"
+                }
+            ]
+        },
+        {
+            "name": "AI1016 - Parallel Computing Architecture",
+            "experiments": [
+                {
+                    "id": 1,
+                    "title": "EXP-1 SUM ARRAY GPU",
+                    "college_repo": "Aswini-J/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24",
+                    "source_repo": "Balaji000000/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24"
+                },
+                {
+                    "id": 2,
+                    "title": "EXP-2 MATRIX SUMMATION USING 2D GRIDS AND 2D BLOCKS",
+                    "college_repo": "Aswini-J/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24",
+                    "source_repo": "Balaji000000/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24"
+                },
+                {
+                    "id": 3,
+                    "title": "Implement Matrix Multiplication using CUDA C. Find the elapsed time.",
+                    "college_repo": "Aswini-J/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.",
+                    "source_repo": "Balaji000000/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time."
+                },
+                {
+                    "id": 4,
+                    "title": "EXP-4 MATRIX ADDITION WITH UNIFIED MEMORY",
+                    "college_repo": "Aswini-J/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24",
+                    "source_repo": "Balaji000000/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24"
+                },
+                {
+                    "id": 5,
+                    "title": "Simple warp divergence - Implement Sum Reduction.",
+                    "college_repo": "Aswini-J/PCA-Simple-warp-divergence---Implement-Sum-Reduction.",
+                    "source_repo": "Balaji000000/PCA-Simple-warp-divergence---Implement-Sum-Reduction."
+                },
+                {
+                    "id": 6,
+                    "title": "EXP-6 MATRIX TRANSPOSITION USING SHARED MEMORY",
+                    "college_repo": "Aswini-J/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24",
+                    "source_repo": "Balaji000000/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24"
+                }
+            ]
+        },
+        {
+            "name": "AI1015 - Digital Image Processing Techniques",
+            "experiments": [
+                {
+                    "id": 1,
+                    "title": "EXP 1: Image Handling and Pixel Transformations",
+                    "college_repo": "michaelmahesh/Image-Handling-and-Pixel-Transformations-Using-OpenCV",
+                    "source_repo": "divyanbu2005-source/Image-Handling-and-Pixel-Transformations-Using-OpenCV"
+                },
+                {
+                    "id": 2,
+                    "title": "EXP 2: Histogram Equalization",
+                    "college_repo": "michaelmahesh/Histogram-Equalization-Using-OpenCV",
+                    "source_repo": "divyanbu2005-source/Histogram-Equalization-Using-OpenCV"
+                },
+                {
+                    "id": 3,
+                    "title": "EXP 3: Image Enhancement Filters",
+                    "college_repo": "michaelmahesh/image-enhancement-filters-opencv",
+                    "source_repo": "divyanbu2005-source/image-enhancement-filters-opencv"
+                },
+                {
+                    "id": 4,
+                    "title": "EXP 4: Edge Detection",
+                    "college_repo": "michaelmahesh/edge-detection-opencv",
+                    "source_repo": "divyanbu2005-source/edge-detection-opencv"
+                },
+                {
+                    "id": 5,
+                    "title": "EXP 5: Opening and Closing",
+                    "college_repo": "swedha333/OPENING--AND-CLOSING",
+                    "source_repo": "divyanbu2005-source/OPENING--AND-CLOSING"
+                },
+                {
+                    "id": 6,
+                    "title": "EXP 6: Huffman Coding",
+                    "college_repo": "swedha333/HUFFMAN--CODING",
+                    "source_repo": "divyanbu2005-source/HUFFMAN--CODING"
+                }
+            ]
+        },
+        {
+            "name": "AI1011 - Advanced Java Web Applications",
+            "experiments": [
+                {
+                    "id": 1,
+                    "title": "EXP 1: Simple Web Server",
+                    "college_repo": "secnt243/Ex.no.1-simple-web-server",
+                    "source_repo": "adhi2k/Ex.no.1-simple-web-server"
+                },
+                {
+                    "id": 2,
+                    "title": "EXP 2: Simple Spring Boot MVC Application",
+                    "college_repo": "secnt243/Ex.No.2_Simple-Spring-Boot-MVC-Application",
+                    "source_repo": "adhi2k/Ex.No.2_Simple-Spring-Boot-MVC-Application"
+                },
+                {
+                    "id": 3,
+                    "title": "EXP 3: CRUD operations using Spring Boot Hibernate",
+                    "college_repo": "secnt243/EX-03-Create-a-Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration",
+                    "source_repo": "adhi2k/EX-03-Create-a-Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration"
+                },
+                {
+                    "id": 4,
+                    "title": "EXP 4: Spring Boot with RestAPI and Hibernate Integration",
+                    "college_repo": "secnt243/EX-04--Spring-Boot-with-RestAPI-and-Hibernate-Integration",
+                    "source_repo": "adhi2k/EX-04--Spring-Boot-with-RestAPI-and-Hibernate-Integration"
+                },
+                {
+                    "id": 5,
+                    "title": "EXP 5: Setting Up Spring Security in a Spring Boot Project",
+                    "college_repo": "secnt243/EX-05-Setting-Up-Spring-Security-in-a-Spring-Boot-Project",
+                    "source_repo": "adhi2k/EX-05-Setting-Up-Spring-Security-in-a-Spring-Boot-Project"
+                }
+            ]
+        }
+    ]
+}
